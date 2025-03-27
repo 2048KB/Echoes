@@ -1,4 +1,4 @@
-# Multilingual Audio/Video Transcriber
+# Echoes - Multilingual Audio/Video Transcriber
 
 A Python application that transcribes audio and video files into text, supporting multiple languages including English and Chinese. Built with OpenAI's Whisper model and a modern GUI interface.
 
