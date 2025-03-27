@@ -14,6 +14,10 @@ A Python application that transcribes audio and video files into text, supportin
 - Multi-core CPU processing support
 - Smart model caching system
 
+## Application Interface
+
+![Echoes GUI](gui.png)
+
 ## Storage Requirements
 
 The application uses OpenAI's Whisper models which require local storage for caching. Here are the storage requirements for each model:
@@ -316,4 +320,8 @@ Access cache settings through the "Settings" button:
 2. Change cache directory
 3. Monitor cache size
 4. Clear cached models
-5. View detailed cache statistics 
+5. View detailed cache statistics
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details. 
